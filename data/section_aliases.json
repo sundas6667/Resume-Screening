@@ -1,0 +1,15 @@
+{
+  "_note": "Canonical section name -> header variants seen across real resumes. Matched as a full line (case-insensitive, optional trailing colon) by SECTION_HEADER_PATTERN in utils/constants.py — a bare word like 'career' only matches when it's the ENTIRE line, so it won't misfire on a longer heading like 'Career Objective'.",
+  "summary": ["summary", "professional summary", "profile", "objective", "about me", "career objective", "career summary"],
+  "skills": ["skills", "technical skills", "core competencies", "technologies", "skill set", "expertise"],
+  "experience": [
+    "experience", "work experience", "professional experience", "employment history",
+    "work history", "career history", "employment", "career", "professional history"
+  ],
+  "education": ["education", "academic background", "academic qualification", "educational qualification", "qualifications", "academics"],
+  "projects": ["projects", "personal projects", "academic projects", "key projects", "notable projects", "portfolio"],
+  "certifications": ["certifications", "certificates", "licenses & certifications", "professional certifications"],
+  "languages": ["languages", "language proficiency"],
+  "achievements": ["achievements", "awards", "honors", "accomplishments"],
+  "publications": ["publications", "research papers", "papers"]
+}

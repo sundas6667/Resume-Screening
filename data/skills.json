@@ -1,0 +1,1032 @@
+{
+  "categories": {
+    "Programming Languages": [
+      {
+        "name": "Python",
+        "aliases": []
+      },
+      {
+        "name": "Java",
+        "aliases": []
+      },
+      {
+        "name": "JavaScript",
+        "aliases": [
+          "JS"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "aliases": [
+          "TS"
+        ]
+      },
+      {
+        "name": "C++",
+        "aliases": [
+          "CPP",
+          "C Plus Plus"
+        ]
+      },
+      {
+        "name": "C#",
+        "aliases": [
+          "C Sharp",
+          "CSharp"
+        ]
+      },
+      {
+        "name": "C",
+        "aliases": []
+      },
+      {
+        "name": "Ruby",
+        "aliases": []
+      },
+      {
+        "name": "Go",
+        "aliases": [
+          "Golang"
+        ]
+      },
+      {
+        "name": "Rust",
+        "aliases": []
+      },
+      {
+        "name": "PHP",
+        "aliases": []
+      },
+      {
+        "name": "Swift",
+        "aliases": []
+      },
+      {
+        "name": "Kotlin",
+        "aliases": []
+      },
+      {
+        "name": "Scala",
+        "aliases": []
+      },
+      {
+        "name": "R",
+        "aliases": [
+          "R Programming",
+          "R Language"
+        ]
+      },
+      {
+        "name": "MATLAB",
+        "aliases": []
+      },
+      {
+        "name": "Perl",
+        "aliases": []
+      },
+      {
+        "name": "Dart",
+        "aliases": []
+      },
+      {
+        "name": "Objective-C",
+        "aliases": [
+          "Objective C"
+        ]
+      },
+      {
+        "name": "Elixir",
+        "aliases": []
+      },
+      {
+        "name": "Haskell",
+        "aliases": []
+      },
+      {
+        "name": "Julia",
+        "aliases": []
+      },
+      {
+        "name": "Lua",
+        "aliases": []
+      },
+      {
+        "name": "Groovy",
+        "aliases": []
+      },
+      {
+        "name": "VB.NET",
+        "aliases": [
+          "Visual Basic .NET"
+        ]
+      },
+      {
+        "name": "F#",
+        "aliases": [
+          "F Sharp"
+        ]
+      },
+      {
+        "name": "Solidity",
+        "aliases": []
+      },
+      {
+        "name": "Assembly",
+        "aliases": []
+      }
+    ],
+    "Web & Frontend": [
+      {
+        "name": "React",
+        "aliases": [
+          "React.js",
+          "ReactJS"
+        ]
+      },
+      {
+        "name": "Angular",
+        "aliases": [
+          "AngularJS"
+        ]
+      },
+      {
+        "name": "Vue.js",
+        "aliases": [
+          "Vue",
+          "VueJS"
+        ]
+      },
+      {
+        "name": "Svelte",
+        "aliases": []
+      },
+      {
+        "name": "Next.js",
+        "aliases": [
+          "NextJS"
+        ]
+      },
+      {
+        "name": "jQuery",
+        "aliases": []
+      },
+      {
+        "name": "HTML5",
+        "aliases": [
+          "HTML"
+        ]
+      },
+      {
+        "name": "CSS3",
+        "aliases": [
+          "CSS"
+        ]
+      },
+      {
+        "name": "Sass",
+        "aliases": [
+          "SCSS"
+        ]
+      },
+      {
+        "name": "Tailwind CSS",
+        "aliases": [
+          "TailwindCSS",
+          "Tailwind"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "aliases": []
+      },
+      {
+        "name": "Redux",
+        "aliases": []
+      },
+      {
+        "name": "Webpack",
+        "aliases": []
+      },
+      {
+        "name": "Vite",
+        "aliases": []
+      },
+      {
+        "name": "Gatsby",
+        "aliases": []
+      },
+      {
+        "name": "Remix",
+        "aliases": []
+      },
+      {
+        "name": "Alpine.js",
+        "aliases": []
+      },
+      {
+        "name": "Material UI",
+        "aliases": [
+          "MUI"
+        ]
+      },
+      {
+        "name": "Three.js",
+        "aliases": []
+      },
+      {
+        "name": "D3.js",
+        "aliases": [
+          "D3"
+        ]
+      }
+    ],
+    "Backend Frameworks": [
+      {
+        "name": "Django",
+        "aliases": []
+      },
+      {
+        "name": "Flask",
+        "aliases": []
+      },
+      {
+        "name": "FastAPI",
+        "aliases": []
+      },
+      {
+        "name": "Node.js",
+        "aliases": [
+          "NodeJS",
+          "Node"
+        ]
+      },
+      {
+        "name": "Express.js",
+        "aliases": [
+          "Express",
+          "ExpressJS"
+        ]
+      },
+      {
+        "name": "Spring Boot",
+        "aliases": [
+          "Spring"
+        ]
+      },
+      {
+        "name": "ASP.NET",
+        "aliases": [
+          "ASP .NET",
+          "DotNet",
+          ".NET"
+        ]
+      },
+      {
+        "name": "Ruby on Rails",
+        "aliases": [
+          "Rails"
+        ]
+      },
+      {
+        "name": "Laravel",
+        "aliases": []
+      },
+      {
+        "name": "NestJS",
+        "aliases": []
+      },
+      {
+        "name": "REST API",
+        "aliases": [
+          "RESTful API",
+          "REST APIs"
+        ]
+      },
+      {
+        "name": "GraphQL",
+        "aliases": []
+      },
+      {
+        "name": "gRPC",
+        "aliases": []
+      },
+      {
+        "name": "WebSockets",
+        "aliases": []
+      },
+      {
+        "name": "Symfony",
+        "aliases": []
+      }
+    ],
+    "AI / Machine Learning": [
+      {
+        "name": "Machine Learning",
+        "aliases": [
+          "ML"
+        ]
+      },
+      {
+        "name": "Deep Learning",
+        "aliases": [
+          "DL"
+        ]
+      },
+      {
+        "name": "TensorFlow",
+        "aliases": [
+          "TF"
+        ]
+      },
+      {
+        "name": "PyTorch",
+        "aliases": []
+      },
+      {
+        "name": "Scikit-learn",
+        "aliases": [
+          "Sklearn",
+          "Scikit Learn"
+        ]
+      },
+      {
+        "name": "Keras",
+        "aliases": []
+      },
+      {
+        "name": "Natural Language Processing",
+        "aliases": [
+          "NLP"
+        ]
+      },
+      {
+        "name": "Computer Vision",
+        "aliases": []
+      },
+      {
+        "name": "LangChain",
+        "aliases": []
+      },
+      {
+        "name": "LangGraph",
+        "aliases": []
+      },
+      {
+        "name": "CrewAI",
+        "aliases": []
+      },
+      {
+        "name": "AutoGen",
+        "aliases": []
+      },
+      {
+        "name": "Haystack",
+        "aliases": []
+      },
+      {
+        "name": "LlamaIndex",
+        "aliases": []
+      },
+      {
+        "name": "DSPy",
+        "aliases": []
+      },
+      {
+        "name": "Hugging Face Transformers",
+        "aliases": [
+          "HuggingFace",
+          "Transformers"
+        ]
+      },
+      {
+        "name": "OpenAI SDK",
+        "aliases": [
+          "OpenAI API"
+        ]
+      },
+      {
+        "name": "Anthropic Claude SDK",
+        "aliases": [
+          "Claude API"
+        ]
+      },
+      {
+        "name": "Google Gemini API",
+        "aliases": [
+          "Gemini API"
+        ]
+      },
+      {
+        "name": "OpenCV",
+        "aliases": []
+      },
+      {
+        "name": "XGBoost",
+        "aliases": []
+      },
+      {
+        "name": "LightGBM",
+        "aliases": []
+      },
+      {
+        "name": "Reinforcement Learning",
+        "aliases": []
+      },
+      {
+        "name": "Generative AI",
+        "aliases": [
+          "GenAI"
+        ]
+      },
+      {
+        "name": "Large Language Models",
+        "aliases": [
+          "LLM",
+          "LLMs"
+        ]
+      },
+      {
+        "name": "Retrieval Augmented Generation",
+        "aliases": [
+          "RAG"
+        ]
+      },
+      {
+        "name": "Neural Networks",
+        "aliases": []
+      },
+      {
+        "name": "Pandas",
+        "aliases": []
+      },
+      {
+        "name": "NumPy",
+        "aliases": []
+      },
+      {
+        "name": "MLOps",
+        "aliases": []
+      },
+      {
+        "name": "Prompt Engineering",
+        "aliases": []
+      },
+      {
+        "name": "Model Fine-Tuning",
+        "aliases": [
+          "Fine-tuning"
+        ]
+      },
+      {
+        "name": "BERT",
+        "aliases": []
+      },
+      {
+        "name": "GPT",
+        "aliases": []
+      },
+      {
+        "name": "Vector Databases",
+        "aliases": []
+      },
+      {
+        "name": "Pinecone",
+        "aliases": []
+      },
+      {
+        "name": "Weaviate",
+        "aliases": []
+      },
+      {
+        "name": "Chroma",
+        "aliases": []
+      },
+      {
+        "name": "Time Series Forecasting",
+        "aliases": []
+      },
+      {
+        "name": "Recommender Systems",
+        "aliases": []
+      }
+    ],
+    "Cloud & DevOps": [
+      {
+        "name": "AWS",
+        "aliases": [
+          "Amazon Web Services"
+        ]
+      },
+      {
+        "name": "Azure",
+        "aliases": [
+          "Microsoft Azure"
+        ]
+      },
+      {
+        "name": "Google Cloud Platform",
+        "aliases": [
+          "GCP",
+          "Google Cloud"
+        ]
+      },
+      {
+        "name": "Docker",
+        "aliases": []
+      },
+      {
+        "name": "Kubernetes",
+        "aliases": [
+          "K8s"
+        ]
+      },
+      {
+        "name": "Terraform",
+        "aliases": []
+      },
+      {
+        "name": "Jenkins",
+        "aliases": []
+      },
+      {
+        "name": "CI/CD",
+        "aliases": [
+          "CI CD",
+          "Continuous Integration"
+        ]
+      },
+      {
+        "name": "Ansible",
+        "aliases": []
+      },
+      {
+        "name": "GitHub Actions",
+        "aliases": []
+      },
+      {
+        "name": "GitLab CI",
+        "aliases": []
+      },
+      {
+        "name": "CloudFormation",
+        "aliases": []
+      },
+      {
+        "name": "Helm",
+        "aliases": []
+      },
+      {
+        "name": "Prometheus",
+        "aliases": []
+      },
+      {
+        "name": "Grafana",
+        "aliases": []
+      },
+      {
+        "name": "Nginx",
+        "aliases": []
+      },
+      {
+        "name": "ArgoCD",
+        "aliases": []
+      },
+      {
+        "name": "Istio",
+        "aliases": []
+      },
+      {
+        "name": "OpenShift",
+        "aliases": []
+      },
+      {
+        "name": "Datadog",
+        "aliases": []
+      },
+      {
+        "name": "New Relic",
+        "aliases": []
+      },
+      {
+        "name": "Splunk",
+        "aliases": []
+      }
+    ],
+    "Databases": [
+      {
+        "name": "SQL",
+        "aliases": []
+      },
+      {
+        "name": "PostgreSQL",
+        "aliases": [
+          "Postgres"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "aliases": []
+      },
+      {
+        "name": "MongoDB",
+        "aliases": [
+          "Mongo"
+        ]
+      },
+      {
+        "name": "Redis",
+        "aliases": []
+      },
+      {
+        "name": "Cassandra",
+        "aliases": []
+      },
+      {
+        "name": "Oracle Database",
+        "aliases": [
+          "Oracle DB"
+        ]
+      },
+      {
+        "name": "SQLite",
+        "aliases": []
+      },
+      {
+        "name": "DynamoDB",
+        "aliases": []
+      },
+      {
+        "name": "Elasticsearch",
+        "aliases": []
+      },
+      {
+        "name": "Firebase",
+        "aliases": []
+      },
+      {
+        "name": "Snowflake",
+        "aliases": []
+      },
+      {
+        "name": "Neo4j",
+        "aliases": []
+      },
+      {
+        "name": "CockroachDB",
+        "aliases": []
+      },
+      {
+        "name": "MariaDB",
+        "aliases": []
+      },
+      {
+        "name": "InfluxDB",
+        "aliases": []
+      },
+      {
+        "name": "Supabase",
+        "aliases": []
+      },
+      {
+        "name": "Redshift",
+        "aliases": []
+      }
+    ],
+    "Mobile Development": [
+      {
+        "name": "React Native",
+        "aliases": []
+      },
+      {
+        "name": "Flutter",
+        "aliases": []
+      },
+      {
+        "name": "Android Development",
+        "aliases": [
+          "Android"
+        ]
+      },
+      {
+        "name": "iOS Development",
+        "aliases": [
+          "iOS"
+        ]
+      },
+      {
+        "name": "SwiftUI",
+        "aliases": []
+      },
+      {
+        "name": "Xamarin",
+        "aliases": []
+      },
+      {
+        "name": "Ionic",
+        "aliases": []
+      },
+      {
+        "name": "Jetpack Compose",
+        "aliases": []
+      }
+    ],
+    "Testing & QA": [
+      {
+        "name": "Selenium",
+        "aliases": []
+      },
+      {
+        "name": "Pytest",
+        "aliases": []
+      },
+      {
+        "name": "JUnit",
+        "aliases": []
+      },
+      {
+        "name": "Cypress",
+        "aliases": []
+      },
+      {
+        "name": "Jest",
+        "aliases": []
+      },
+      {
+        "name": "Postman",
+        "aliases": []
+      },
+      {
+        "name": "TestNG",
+        "aliases": []
+      },
+      {
+        "name": "Unit Testing",
+        "aliases": []
+      },
+      {
+        "name": "Test Automation",
+        "aliases": []
+      },
+      {
+        "name": "Playwright",
+        "aliases": []
+      },
+      {
+        "name": "Appium",
+        "aliases": []
+      },
+      {
+        "name": "Mocha",
+        "aliases": []
+      },
+      {
+        "name": "JMeter",
+        "aliases": []
+      }
+    ],
+    "Operating Systems": [
+      {
+        "name": "Linux",
+        "aliases": []
+      },
+      {
+        "name": "Windows Server",
+        "aliases": []
+      },
+      {
+        "name": "Unix",
+        "aliases": []
+      },
+      {
+        "name": "macOS",
+        "aliases": []
+      },
+      {
+        "name": "Ubuntu",
+        "aliases": []
+      },
+      {
+        "name": "Bash Scripting",
+        "aliases": [
+          "Bash",
+          "Shell Scripting"
+        ]
+      },
+      {
+        "name": "CentOS",
+        "aliases": []
+      },
+      {
+        "name": "Debian",
+        "aliases": []
+      },
+      {
+        "name": "PowerShell",
+        "aliases": []
+      }
+    ],
+    "Data Engineering": [
+      {
+        "name": "Apache Spark",
+        "aliases": [
+          "Spark",
+          "PySpark"
+        ]
+      },
+      {
+        "name": "Hadoop",
+        "aliases": []
+      },
+      {
+        "name": "Apache Kafka",
+        "aliases": [
+          "Kafka"
+        ]
+      },
+      {
+        "name": "Apache Airflow",
+        "aliases": [
+          "Airflow"
+        ]
+      },
+      {
+        "name": "ETL",
+        "aliases": [
+          "ETL Pipelines"
+        ]
+      },
+      {
+        "name": "Data Warehousing",
+        "aliases": []
+      },
+      {
+        "name": "dbt",
+        "aliases": []
+      },
+      {
+        "name": "Apache Beam",
+        "aliases": []
+      },
+      {
+        "name": "BigQuery",
+        "aliases": []
+      },
+      {
+        "name": "Apache NiFi",
+        "aliases": []
+      },
+      {
+        "name": "Presto",
+        "aliases": [
+          "Trino"
+        ]
+      },
+      {
+        "name": "Delta Lake",
+        "aliases": []
+      }
+    ],
+    "Tools & Collaboration": [
+      {
+        "name": "Git",
+        "aliases": []
+      },
+      {
+        "name": "GitHub",
+        "aliases": []
+      },
+      {
+        "name": "GitLab",
+        "aliases": []
+      },
+      {
+        "name": "Bitbucket",
+        "aliases": []
+      },
+      {
+        "name": "Jira",
+        "aliases": []
+      },
+      {
+        "name": "Confluence",
+        "aliases": []
+      },
+      {
+        "name": "VS Code",
+        "aliases": [
+          "Visual Studio Code"
+        ]
+      },
+      {
+        "name": "Figma",
+        "aliases": []
+      },
+      {
+        "name": "Notion",
+        "aliases": []
+      },
+      {
+        "name": "Slack",
+        "aliases": []
+      },
+      {
+        "name": "Asana",
+        "aliases": []
+      },
+      {
+        "name": "Trello",
+        "aliases": []
+      },
+      {
+        "name": "Miro",
+        "aliases": []
+      },
+      {
+        "name": "Linear",
+        "aliases": []
+      }
+    ],
+    "Soft Skills": [
+      {
+        "name": "Leadership",
+        "aliases": []
+      },
+      {
+        "name": "Communication",
+        "aliases": []
+      },
+      {
+        "name": "Problem Solving",
+        "aliases": []
+      },
+      {
+        "name": "Team Management",
+        "aliases": []
+      },
+      {
+        "name": "Project Management",
+        "aliases": []
+      },
+      {
+        "name": "Agile",
+        "aliases": [
+          "Agile Methodology"
+        ]
+      },
+      {
+        "name": "Scrum",
+        "aliases": []
+      },
+      {
+        "name": "Critical Thinking",
+        "aliases": []
+      },
+      {
+        "name": "Time Management",
+        "aliases": []
+      },
+      {
+        "name": "Collaboration",
+        "aliases": [
+          "Teamwork"
+        ]
+      },
+      {
+        "name": "Mentoring",
+        "aliases": []
+      },
+      {
+        "name": "Public Speaking",
+        "aliases": []
+      },
+      {
+        "name": "Adaptability",
+        "aliases": []
+      },
+      {
+        "name": "Conflict Resolution",
+        "aliases": []
+      },
+      {
+        "name": "Decision Making",
+        "aliases": []
+      },
+      {
+        "name": "Emotional Intelligence",
+        "aliases": []
+      },
+      {
+        "name": "Negotiation",
+        "aliases": []
+      },
+      {
+        "name": "Creativity",
+        "aliases": []
+      }
+    ]
+  },
+  "metadata": {
+    "total_skills": 217,
+    "total_categories": 12
+  }
+}

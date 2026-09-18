@@ -1,0 +1,52 @@
+{
+  "degree_levels": [
+    {
+      "level": "PhD",
+      "rank": 5,
+      "patterns": ["ph\\.?d", "doctorate", "doctor of philosophy"]
+    },
+    {
+      "level": "Master",
+      "rank": 4,
+      "patterns": ["master of science", "master of arts", "master of engineering",
+                   "master of business administration", "master'?s?(?:\\s+degree)?",
+                   "m\\.?s\\.?", "m\\.?tech", "m\\.?e\\.?", "mba", "m\\.?a\\.?", "msc"]
+    },
+    {
+      "level": "Bachelor",
+      "rank": 3,
+      "patterns": ["bachelor of science", "bachelor of arts", "bachelor of engineering",
+                   "bachelor of technology", "bachelor'?s?(?:\\s+degree)?", "undergraduate degree",
+                   "b\\.?s\\.?", "b\\.?tech", "b\\.?e\\.?",
+                   "b\\.?a\\.?", "bsc", "bca"]
+    },
+    {
+      "level": "Associate",
+      "rank": 2,
+      "patterns": ["associate degree", "associate'?s?(?:\\s+degree)?", "associate of arts",
+                   "associate of science", "a\\.?a\\.?"]
+    },
+    {
+      "level": "Diploma",
+      "rank": 1,
+      "patterns": ["diploma", "certificate program"]
+    },
+    {
+      "level": "High School",
+      "rank": 0,
+      "patterns": ["high school", "secondary school", "hssc", "intermediate"]
+    }
+  ],
+  "common_fields": [
+    "Computer Science", "Information Technology", "Software Engineering",
+    "Data Science", "Artificial Intelligence", "Machine Learning",
+    "Electrical Engineering", "Electronics Engineering", "Mechanical Engineering",
+    "Civil Engineering", "Business Administration", "Mathematics", "Statistics",
+    "Physics", "Economics", "Finance", "Marketing", "Cybersecurity",
+    "Information Systems", "Telecommunications"
+  ],
+  "honors_patterns": [
+    "summa cum laude", "magna cum laude", "cum laude", "with distinction",
+    "with honors", "first class honours", "dean's list", "gold medalist"
+  ]
+}

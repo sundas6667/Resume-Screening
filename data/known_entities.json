@@ -1,0 +1,43 @@
+{
+  "_note": "These are heuristic aids for the education/experience parser, not exhaustive lists. A university or title NOT in this list is still parsed via structural cues (position in EDUCATION/EXPERIENCE sections, proximity to a date range or degree keyword) — these lists only help disambiguate messy formatting, they are never the sole signal.",
+  "universities": [
+    "Massachusetts Institute of Technology", "Stanford University", "Harvard University",
+    "University of California, Berkeley", "Carnegie Mellon University", "University of Oxford",
+    "University of Cambridge", "ETH Zurich", "National University of Singapore",
+    "University of Toronto", "University of Waterloo", "Georgia Institute of Technology",
+    "University of Michigan", "Cornell University", "Princeton University",
+    "University of Illinois Urbana-Champaign", "University of Texas at Austin",
+    "California Institute of Technology", "Imperial College London", "University College London",
+    "University of Edinburgh", "Technical University of Munich", "EPFL",
+    "Indian Institute of Technology", "IIT Bombay", "IIT Delhi", "IIT Madras",
+    "Indian Institute of Science", "National Institute of Technology",
+    "University of Punjab", "Lahore University of Management Sciences", "NUST Pakistan",
+    "FAST National University", "University of Karachi", "COMSATS University",
+    "Tsinghua University", "Peking University", "University of Tokyo", "Seoul National University",
+    "University of Melbourne", "Australian National University", "University of Sydney",
+    "McGill University", "University of British Columbia", "New York University",
+    "University of Washington", "University of California, Los Angeles",
+    "Purdue University", "University of Wisconsin-Madison", "Arizona State University",
+    "Boston University", "Northeastern University", "University of Southern California"
+  ],
+  "job_titles": [
+    "Software Engineer", "Senior Software Engineer", "Staff Software Engineer",
+    "Software Developer", "Full Stack Developer", "Backend Developer", "Frontend Developer",
+    "Data Scientist", "Senior Data Scientist", "Machine Learning Engineer", "AI Engineer",
+    "Data Engineer", "Data Analyst", "Business Analyst", "DevOps Engineer", "Site Reliability Engineer",
+    "Cloud Engineer", "Cloud Architect", "Solutions Architect", "Systems Architect",
+    "QA Engineer", "Test Engineer", "Automation Engineer", "Security Engineer",
+    "Product Manager", "Project Manager", "Program Manager", "Engineering Manager",
+    "Technical Lead", "Team Lead", "Principal Engineer", "Distinguished Engineer",
+    "CTO", "VP of Engineering", "Director of Engineering", "Head of Engineering",
+    "Mobile Developer", "iOS Developer", "Android Developer", "Research Scientist",
+    "NLP Engineer", "Computer Vision Engineer", "MLOps Engineer", "Database Administrator",
+    "Systems Administrator", "Network Engineer", "UI/UX Designer", "Product Designer",
+    "Intern", "Software Engineering Intern", "Research Intern", "Teaching Assistant"
+  ],
+  "spoken_languages": [
+    "English", "Spanish", "French", "German", "Mandarin", "Cantonese", "Arabic", "Urdu",
+    "Hindi", "Punjabi", "Portuguese", "Russian", "Japanese", "Korean", "Italian", "Dutch",
+    "Turkish", "Bengali", "Vietnamese", "Polish", "Swedish", "Greek", "Hebrew", "Thai", "Farsi"
+  ]
+}

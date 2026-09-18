@@ -1,0 +1,69 @@
+{
+  "providers": {
+    "AWS": {
+      "keywords": ["aws certified", "amazon web services certified"],
+      "weight": 1.0
+    },
+    "Microsoft Azure": {
+      "keywords": ["azure certified", "microsoft certified", "az-900", "az-104", "az-204", "az-305"],
+      "weight": 1.0
+    },
+    "Google Cloud": {
+      "keywords": ["google cloud certified", "gcp certified", "google professional"],
+      "weight": 1.0
+    },
+    "Coursera": {
+      "keywords": ["coursera"],
+      "weight": 0.6
+    },
+    "IBM": {
+      "keywords": ["ibm certified", "ibm professional"],
+      "weight": 0.8
+    },
+    "Meta": {
+      "keywords": ["meta certified", "meta blueprint"],
+      "weight": 0.7
+    },
+    "Cisco": {
+      "keywords": ["ccna", "ccnp", "cisco certified"],
+      "weight": 0.9
+    },
+    "Oracle": {
+      "keywords": ["oracle certified", "ocp", "ocajp"],
+      "weight": 0.8
+    },
+    "CompTIA": {
+      "keywords": ["comptia", "security+", "network+", "a+"],
+      "weight": 0.8
+    },
+    "PMI": {
+      "keywords": ["pmp", "project management professional", "capm"],
+      "weight": 0.9
+    },
+    "Scrum Alliance": {
+      "keywords": ["csm", "certified scrum master", "psm"],
+      "weight": 0.7
+    },
+    "Kubernetes (CNCF)": {
+      "keywords": ["cka", "ckad", "certified kubernetes"],
+      "weight": 0.9
+    },
+    "HashiCorp": {
+      "keywords": ["hashicorp certified", "terraform associate"],
+      "weight": 0.8
+    },
+    "edX": {
+      "keywords": ["edx"],
+      "weight": 0.5
+    },
+    "Udacity": {
+      "keywords": ["udacity", "nanodegree"],
+      "weight": 0.5
+    },
+    "DeepLearning.AI": {
+      "keywords": ["deeplearning.ai", "deep learning specialization"],
+      "weight": 0.8
+    }
+  },
+  "generic_keywords": ["certified", "certification", "certificate"]
+}
